@@ -70,10 +70,10 @@
   },
   "peerDependencies": {
     "@capacitor-community/http": "^1.0.0",
-    "@capacitor/core": "^3.0.0",
-    "@capacitor/device": "^1.0.0",
-    "@capacitor/dialog": "^1.0.0",
-    "@capacitor/filesystem": "^1.0.0"
+    "@capacitor/core": "^4.6.2",
+    "@capacitor/device": "^4.0.0",
+    "@capacitor/dialog": "^4.0.0",
+    "@capacitor/filesystem": "^4.0.0"
   },
   "capacitor": {
     "android": {
